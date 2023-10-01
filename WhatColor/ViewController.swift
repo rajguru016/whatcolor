@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  WhatColor
+//  WhatColor - color color
 //
 //  Created by Gururaj Desai on 9/24/23.
 //
